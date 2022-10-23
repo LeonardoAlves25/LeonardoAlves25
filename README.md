@@ -2,6 +2,7 @@
 
 - 🔭 Me chamo leonardo, e sou aluno do instituto Proa💙
 - 🌱 Estou aprendendo no momento Html, Css, java e javascript, além de lógica de programação com pseudocódigo
+- ⚛️ Acabo de começar minha trilha no reactJS, logo mais disponibilizarei alguns projetinhos 😆
 
 <div align="center">
   <a href="https://github.com/LeonardoAlves25">
