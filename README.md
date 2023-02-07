@@ -1,13 +1,13 @@
 ### Olá!! 👋
 
-- 🔭 Me chamo leonardo, e sou aluno do instituto Proa💙
-- 🌱 Estou aprendendo no momento Html, Css, java e javascript, além de lógica de programação com pseudocódigo
+- 🔭 Me chamo leonardo, e sou ex-aluno do instituto Proa💙
+- 🌱 Estou aprendendo no momento java, spring boot e bootstrap além de lógica de programação com pseudocódigo
 - ⚛️ Acabo de começar minha trilha no reactJS, logo mais disponibilizarei alguns projetinhos 😆
 
 <div align="center">
   <a href="https://github.com/LeonardoAlves25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves25&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves25&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves25&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves25&layout=compact&langs_count=7&theme=midnight-purple">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
