@@ -1,8 +1,8 @@
 ### Olá!! 👋
 
-- 🔭 Me chamo leonardo, e sou ex-aluno do instituto Proa💙
-- 🌱 Estou aprendendo no momento java, spring boot e bootstrap além de lógica de programação com pseudocódigo
-- ⚛️ Acabo de começar minha trilha no reactJS, logo mais disponibilizarei alguns projetinhos 😆
+- 🔭 Me chamo leonardo, e sou analista de service desk buscando me aprofundar cada vez mais na tecnologia da informação em geral!
+- 🌱 No momento, estou aprendendo Java integrado com spring boot além de análise de dados
+- ⚛️ Acabo de começar minha trilha no reactJS, logo mais disponibilizarei alguns projetos
 
 <div align="center">
   <a href="https://github.com/LeonardoAlves25">
