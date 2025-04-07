@@ -1,8 +1,8 @@
 ### Olá!! 👋
 
-- 🔭 Me chamo leonardo, e sou analista de service desk buscando me aprofundar cada vez mais na tecnologia da informação em geral!
-- 🌱 No momento, estou aprendendo Java integrado com spring boot além de análise de dados
-- ⚛️ Acabo de começar minha trilha no reactJS, logo mais disponibilizarei alguns projetos
+- 🔭 Me chamo leonardo, e sou admnistrador de sistemas buscando me aprofundar cada vez mais na tecnologia da informação em geral!
+- 🌱 No momento, estou certificando meus conhecimentos na plataforma de cloud Azure
+- 🖥️ Sigo analisando e prestando suporte a sistemas Windows e Linux
 
 <div align="center">
   <a href="https://github.com/LeonardoAlves25">
